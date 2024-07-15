@@ -13,7 +13,7 @@ npx create-near-app@latest
 ```
 
 
-yarn add near-sdk-js
+npm i near-sdk-js
 
-yarn add --dev ava near-workspaces typescript
+npm i --save-dev ava near-workspaces typescript
 
